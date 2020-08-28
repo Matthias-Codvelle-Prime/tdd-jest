@@ -9,7 +9,6 @@ function multiplied(a, b) {
 }
 module.exports = multiplied;
 
-
 // couvertures es différentes catégories :
 //% Stmts : déclaration 
 //% Branch : branches if else ..
